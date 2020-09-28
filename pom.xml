@@ -11,9 +11,9 @@
 
  <distributionManagement>
   <snapshotRepository>
-    <id>cicd</id>
-    <name>cicd</name>
-    <url>http://localhost:8081/repository/cicd/</url>
+    <id>repo1</id>
+    <name>repo1</name>
+    <url>http://localhost:8081/repository/repo1/</url>
   </snapshotRepository>
 </distributionManagement>  
 
